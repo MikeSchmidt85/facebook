@@ -1,0 +1,165 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#above{
+    margin-top: -10px;
+    margin-left: -20px;
+    margin-right: -8px;
+}
+
+#connect{
+    font-size: 25px;
+    padding-top: 25px;
+    padding-left: 100px;
+}
+
+#connect1{
+    font-size: 25px;
+    padding-bottom: 25px;
+    padding-left: 100px;
+}
+
+.email{
+    color: white;
+    margin-bottom: -15px;
+}
+
+#end_header{
+    display: flex;
+    justify-content: end;
+    padding-right: 200px;
+}
+
+#facebook{
+    background-color: #3b5998;
+    color: white;
+    align-self: flex-end;
+    padding-left: 400px;
+    margin-bottom: -10px;
+    font-size: 250%;
+
+}
+#header{
+    background-color: #3b5998;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin-left: 10px;
+    height: 70px;
+    
+    
+}
+
+#shadow{  /* Box-shadow isn't working */
+    box-shadow: 10px, 10px, red;
+    padding-top: 35px;
+    padding-left: 5px;
+}
+
+#logIn{
+    color: white;
+    background-color: #3b5998;
+    height: 20px;
+    border-width: 1px;
+}
+
+.under_box{
+    color: lightgray;
+    font-size: 10px;
+    margin-top: -20px;
+    
+}
+
+#sign{
+    padding-left: 20px;
+    padding-top: 5px;
+}
+
+#forgot{
+    padding-top: 5px;
+    padding-left: 3px;
+}
+
+#password{
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+#main_section{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 30px;
+}
+
+#sign_up{
+    padding-right: 240px;
+}
+
+.see_photos{
+    display: flex;
+    justify-content: space-around;
+}
+
+#bottom_right{
+    margin-left: 300px;
+    position: relative;
+    top: -110px;
+    right: 90px
+}
+
+#bottom_left{
+    margin-left: 270px;
+    position: relative;
+    left: 50px;
+    top: -25px;
+}
+
+.see_photo{
+    padding-top: 20px;
+}
+
+#text_box{
+    padding: 5px;
+    position: relative;
+    right: 5px;
+}
+
+#birthday{
+    font-size: 120%;
+}
+
+#gender{
+    padding-top: 15px;
+    font-size: large;
+}
+
+#why{
+    font-size: 70%;
+    padding-left: 5px;
+}
+
+#before_why{
+    display: flex;
+}
+
+#button2{
+    color: white;
+    background-color: #62a24f;
+    font-size: large;
+    width: 175px;
+    height: 35px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    border: none;
+    box-shadow: 5px, 10px, black;
+    
+}
+
+
+#by{
+    font-size: 70%;
+}
+
+#create{
+    font-size: 75%;
+}
